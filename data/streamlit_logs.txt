@@ -1,0 +1,196 @@
+2025-11-02 17:38:43 Generating streamlit UI and Dashboard
+2025-11-02 17:38:43 Fetching nodes from DB
+2025-11-02 17:38:43 Connecting to POSTGRES DB for Dashboard
+2025-11-02 17:41:55 Generating streamlit UI and Dashboard
+2025-11-02 17:41:56 Fetching nodes from DB
+2025-11-02 17:41:56 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:00:38 Generating streamlit UI and Dashboard
+2025-11-02 18:00:38 Fetching nodes from DB
+2025-11-02 18:00:38 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:00:39 Fetching crops data for respective nodes from DB
+2025-11-02 18:00:39 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:03:09 Generating streamlit UI and Dashboard
+2025-11-02 18:03:09 Fetching nodes from DB
+2025-11-02 18:03:09 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:03:09 Fetching crops data for respective nodes from DB
+2025-11-02 18:03:09 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:04:08 Generating streamlit UI and Dashboard
+2025-11-02 18:04:08 Fetching nodes from DB
+2025-11-02 18:04:08 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:04:08 Fetching crops data for respective nodes from DB
+2025-11-02 18:04:08 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:05:14 Generating streamlit UI and Dashboard
+2025-11-02 18:05:14 Fetching nodes from DB
+2025-11-02 18:05:14 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:05:14 Fetching crops data for respective nodes from DB
+2025-11-02 18:05:14 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:05:19 Generating streamlit UI and Dashboard
+2025-11-02 18:05:19 Fetching nodes from DB
+2025-11-02 18:05:19 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:05:20 Fetching crops data for respective nodes from DB
+2025-11-02 18:05:20 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:06:17 Generating streamlit UI and Dashboard
+2025-11-02 18:06:17 Fetching nodes from DB
+2025-11-02 18:06:17 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:06:17 Fetching crops data for respective nodes from DB
+2025-11-02 18:06:17 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:06:38 Generating streamlit UI and Dashboard
+2025-11-02 18:06:38 Fetching nodes from DB
+2025-11-02 18:06:38 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:06:38 Fetching crops data for respective nodes from DB
+2025-11-02 18:06:38 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:06:39 Generating streamlit UI and Dashboard
+2025-11-02 18:06:39 Fetching nodes from DB
+2025-11-02 18:06:39 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:06:39 Fetching crops data for respective nodes from DB
+2025-11-02 18:06:39 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:06:40 Generating streamlit UI and Dashboard
+2025-11-02 18:06:40 Fetching nodes from DB
+2025-11-02 18:06:40 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:06:40 Fetching crops data for respective nodes from DB
+2025-11-02 18:06:40 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:06:54 Generating streamlit UI and Dashboard
+2025-11-02 18:06:54 Fetching nodes from DB
+2025-11-02 18:06:54 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:06:54 Fetching crops data for respective nodes from DB
+2025-11-02 18:06:54 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:08:50 Generating streamlit UI and Dashboard
+2025-11-02 18:08:50 Fetching nodes from DB
+2025-11-02 18:08:50 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:08:50 Fetching crops data for respective nodes from DB
+2025-11-02 18:08:50 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:13:50 Generating streamlit UI and Dashboard
+2025-11-02 18:13:50 Fetching nodes from DB
+2025-11-02 18:13:50 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:13:50 Fetching crops data for respective nodes from DB
+2025-11-02 18:13:50 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:14:03 Generating streamlit UI and Dashboard
+2025-11-02 18:14:03 Fetching nodes from DB
+2025-11-02 18:14:03 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:14:03 Fetching crops data for respective nodes from DB
+2025-11-02 18:14:03 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:17:34 Generating streamlit UI and Dashboard
+2025-11-02 18:17:34 Fetching nodes from DB
+2025-11-02 18:17:34 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:17:34 Fetching crops data for respective nodes from DB
+2025-11-02 18:17:34 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:17:58 Generating streamlit UI and Dashboard
+2025-11-02 18:17:58 Fetching nodes from DB
+2025-11-02 18:17:58 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:17:58 Fetching crops data for respective nodes from DB
+2025-11-02 18:17:58 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:18:12 Generating streamlit UI and Dashboard
+2025-11-02 18:18:12 Fetching nodes from DB
+2025-11-02 18:18:12 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:18:12 Fetching crops data for respective nodes from DB
+2025-11-02 18:18:12 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:18:16 Generating streamlit UI and Dashboard
+2025-11-02 18:18:16 Fetching nodes from DB
+2025-11-02 18:18:16 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:18:16 Fetching crops data for respective nodes from DB
+2025-11-02 18:18:16 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:18:17 Generating streamlit UI and Dashboard
+2025-11-02 18:18:17 Fetching nodes from DB
+2025-11-02 18:18:17 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:18:17 Fetching crops data for respective nodes from DB
+2025-11-02 18:18:17 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:38:48 Generating streamlit UI and Dashboard
+2025-11-02 18:38:49 Fetching nodes from DB
+2025-11-02 18:38:49 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:38:49 Fetching crops data for respective nodes from DB
+2025-11-02 18:38:49 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:38:57 Generating streamlit UI and Dashboard
+2025-11-02 18:38:57 Fetching nodes from DB
+2025-11-02 18:38:57 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:38:57 Fetching crops data for respective nodes from DB
+2025-11-02 18:38:57 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:38:59 Generating streamlit UI and Dashboard
+2025-11-02 18:38:59 Fetching nodes from DB
+2025-11-02 18:38:59 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:38:59 Fetching crops data for respective nodes from DB
+2025-11-02 18:38:59 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:39:15 Generating streamlit UI and Dashboard
+2025-11-02 18:39:15 Fetching nodes from DB
+2025-11-02 18:39:15 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:39:15 Fetching crops data for respective nodes from DB
+2025-11-02 18:39:15 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:39:17 Generating streamlit UI and Dashboard
+2025-11-02 18:39:17 Fetching nodes from DB
+2025-11-02 18:39:17 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:39:17 Fetching crops data for respective nodes from DB
+2025-11-02 18:39:17 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:39:21 Generating streamlit UI and Dashboard
+2025-11-02 18:39:21 Fetching nodes from DB
+2025-11-02 18:39:21 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:39:21 Fetching crops data for respective nodes from DB
+2025-11-02 18:39:21 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:39:23 Generating streamlit UI and Dashboard
+2025-11-02 18:39:23 Fetching nodes from DB
+2025-11-02 18:39:23 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:39:23 Fetching crops data for respective nodes from DB
+2025-11-02 18:39:23 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:40:15 Generating streamlit UI and Dashboard
+2025-11-02 18:40:15 Fetching nodes from DB
+2025-11-02 18:40:15 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:40:15 Fetching crops data for respective nodes from DB
+2025-11-02 18:40:15 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:40:20 Generating streamlit UI and Dashboard
+2025-11-02 18:40:20 Fetching nodes from DB
+2025-11-02 18:40:20 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:40:20 Fetching crops data for respective nodes from DB
+2025-11-02 18:40:20 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:40:25 Generating streamlit UI and Dashboard
+2025-11-02 18:40:25 Fetching nodes from DB
+2025-11-02 18:40:25 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:40:26 Fetching crops data for respective nodes from DB
+2025-11-02 18:40:26 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:10 Generating streamlit UI and Dashboard
+2025-11-02 18:50:10 Fetching nodes from DB
+2025-11-02 18:50:10 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:10 Fetching crops data for respective nodes from DB
+2025-11-02 18:50:10 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:25 Generating streamlit UI and Dashboard
+2025-11-02 18:50:25 Fetching nodes from DB
+2025-11-02 18:50:25 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:25 Fetching crops data for respective nodes from DB
+2025-11-02 18:50:25 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:27 Generating streamlit UI and Dashboard
+2025-11-02 18:50:27 Fetching nodes from DB
+2025-11-02 18:50:27 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:27 Fetching crops data for respective nodes from DB
+2025-11-02 18:50:27 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:36 Generating streamlit UI and Dashboard
+2025-11-02 18:50:36 Fetching nodes from DB
+2025-11-02 18:50:36 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:36 Fetching crops data for respective nodes from DB
+2025-11-02 18:50:36 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:37 Generating streamlit UI and Dashboard
+2025-11-02 18:50:37 Fetching nodes from DB
+2025-11-02 18:50:37 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:37 Fetching crops data for respective nodes from DB
+2025-11-02 18:50:37 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:58 Generating streamlit UI and Dashboard
+2025-11-02 18:50:58 Fetching nodes from DB
+2025-11-02 18:50:58 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:58 Fetching crops data for respective nodes from DB
+2025-11-02 18:50:58 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:59 Generating streamlit UI and Dashboard
+2025-11-02 18:50:59 Fetching nodes from DB
+2025-11-02 18:50:59 Connecting to POSTGRES DB for Dashboard
+2025-11-02 18:50:59 Fetching crops data for respective nodes from DB
+2025-11-02 18:50:59 Connecting to POSTGRES DB for Dashboard
+2025-11-02 19:06:00 Generating streamlit UI and Dashboard
+2025-11-02 19:06:00 Fetching nodes from DB
+2025-11-02 19:06:00 Connecting to POSTGRES DB for Dashboard
+2025-11-02 19:06:00 Fetching crops data for respective nodes from DB
+2025-11-02 19:06:00 Connecting to POSTGRES DB for Dashboard
+2025-11-02 19:06:12 Generating streamlit UI and Dashboard
+2025-11-02 19:06:13 Fetching nodes from DB
+2025-11-02 19:06:13 Connecting to POSTGRES DB for Dashboard
+2025-11-02 19:06:13 Fetching crops data for respective nodes from DB
+2025-11-02 19:06:13 Connecting to POSTGRES DB for Dashboard
+2025-11-02 19:06:13 Generating streamlit UI and Dashboard
+2025-11-02 19:06:13 Fetching nodes from DB
+2025-11-02 19:06:13 Connecting to POSTGRES DB for Dashboard
+2025-11-02 19:06:14 Fetching crops data for respective nodes from DB
+2025-11-02 19:06:14 Connecting to POSTGRES DB for Dashboard

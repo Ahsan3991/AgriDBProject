@@ -1,0 +1,7 @@
+upgrade-pip
+python-dotenv
+psycopg2
+bs4
+pandas
+streamlit
+plotly-express
