@@ -34,6 +34,10 @@ More information for sensors and other smart calculation would also be displayed
 smart and timely decisions regarding the respective crop like how much watering is required in the next week or plan to water the 
 plants in a defined quantity if going on a vacation and more.
 
+## LICENSE
+
+This project is licensed under the terms of the MIT license.
+
 ## SOME PICTURES FOR DASHBOARD
 
 
