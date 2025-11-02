@@ -36,7 +36,7 @@ def fetch_node_and_crop_data(node_id):
     log_operation("Fetching crops data for respective nodes from DB", ST_LOGS_PATH)
     conn = get_connection()
     query = """
-            SELECT n.pseudo_id, c.crop_name, s.moisture_data, s.temperature_data, s.last_updated
+            SELECT n.pseudo_id, n.location, c.crop_name, s.moisture_data, s.temperature_data, s.last_updated 
             FROM ((esp_nodes AS n 
             INNER JOIN crops AS c ON n.pseudo_id = c.pseudo_id) 
             INNER JOIN sensors AS s ON n.pseudo_id = s.pseudo_id)
@@ -86,12 +86,14 @@ if selected_node:
         st.warning("No data found for selected node")
     else:
         pseudo_id = node_df['pseudo_id'].iloc[0]
+        location = node_df['location'].iloc[0]
         crop_names = ", ".join(node_df['crop_name'].unique())
 
         #display pseudo_id and connected crops
         st.markdown(f"### NODE INFO")
-        st.info(f"**Pseudo ID:** {pseudo_id}")
-        st.info(f"**Planted crops:** {crop_names}")
+        st.info(f"**Pseudo ID -->** {pseudo_id}")
+        st.info(f"**Location For Nodes-->** {location}")
+        st.info(f"**Planted Crops -->** {crop_names}")
 
         #date range selection
         min_date = node_df['last_updated'].min()
