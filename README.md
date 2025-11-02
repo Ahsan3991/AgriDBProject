@@ -1,8 +1,8 @@
-# WELCOME TO MY AGRI DATABASE MANAGEMENT PROJECT
+# WELCOME TO AGRI DATABASE MANAGEMENT PROJECT
 
 
 ## DISCLAIMER
-Data currently used in this project is randomly generated and should not be used to plantation of any crop. Files will be updated
+Currently used data in this project is randomly generated and should not be used to grow any crop. Files will be updated
 as more reliable data is available or as the project progress.
 
 ## PROJECT OVERVIEW
