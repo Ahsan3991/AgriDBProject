@@ -37,5 +37,5 @@ plants in a defined quantity if going on a vacation and more.
 ## SOME PICTURES FOR DASHBOARD
 
 
-![dashboard1.png](images/dashboard1.png)
-![dashboard2.png](images/dashboard2.png)
+![dashboard1.png](data/images/dashboard1.png)
+![dashboard2.png](data/images/dashboard2.png)
