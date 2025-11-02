@@ -12,7 +12,7 @@ is randomly generated but later on it would be merged with a greater embedded pr
 nodes (ESP32) with relevant sensors placed in the soil where crops are planted, that data is then transferred to RaspberryPI
 which then transfers it to the POSTGRESQL database. The protocol that will be used for transmission of data from sensors to database is "MQTT".
 
-## FLOW OF DATABASE
+## FLOW OF DATA
 The database is created in PostGreSQL using psql and PGAdmin called "**agridb**". Later on python scripts are used to collect and 
 store data in the database using ETL pipeline. Each major step along the way is logged into a separate log file.
 
