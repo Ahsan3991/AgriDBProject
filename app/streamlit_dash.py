@@ -64,23 +64,11 @@ st.markdown(title_alignment, unsafe_allow_html=True)
 
 #sidebar: search for node ids
 all_nodes = fetch_nodes_ids()
-search_input = st.sidebar.text_input("Search Node ID:")
-
-#filter node ids dynamically
-if search_input:
-    node_options = [n for n in all_nodes if search_input.lower() in str(n).lower()]
-else:
-    node_options = all_nodes
-
-if not node_options:
-    st.sidebar.warning("No nodes found")
-    selected_node = None
-else:
-    selected_node = st.sidebar.selectbox("Select node ID:", node_options)
+search_input = st.sidebar.selectbox("Search Node ID:", all_nodes)
 
 #display data for the selected node
-if selected_node:
-    node_df = fetch_node_and_crop_data(selected_node)
+if search_input:
+    node_df = fetch_node_and_crop_data(search_input)
 
     if node_df.empty:
         st.warning("No data found for selected node")
