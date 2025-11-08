@@ -178,3 +178,54 @@
 2025-11-02 18:49:34 table creation done, Start loading data
 2025-11-02 18:49:34 inserting data into tables
 2025-11-02 18:49:34 Data loaded successfully
+2025-11-08 10:52:44 start data extraction
+2025-11-08 10:52:44 data is extracted from CSVs
+2025-11-08 10:52:44 Start data transformation
+2025-11-08 10:52:44 Duplicate pseudo_id or duplicate_node_id
+2025-11-08 10:52:44 Duplicate pseudo_id/(s) found
+2025-11-08 10:52:44 Duplicate node_id/(s) found
+2025-11-08 10:52:44 Dropping duplicates
+2025-11-08 10:52:44 data transformation is done
+2025-11-08 10:52:44 start loading data
+2025-11-08 10:52:45 getting environment url: postgresql://postgres:root@localhost:5432/agridb 
+2025-11-08 10:52:45 database connection established
+2025-11-08 10:52:45 creating tables if not exist already
+2025-11-08 10:53:26 start data extraction
+2025-11-08 10:53:26 data is extracted from CSVs
+2025-11-08 10:53:26 Start data transformation
+2025-11-08 10:53:26 Duplicate pseudo_id or duplicate_node_id
+2025-11-08 10:53:26 Duplicate pseudo_id/(s) found
+2025-11-08 10:53:26 Duplicate node_id/(s) found
+2025-11-08 10:53:26 Dropping duplicates
+2025-11-08 10:53:26 data transformation is done
+2025-11-08 10:53:26 start loading data
+2025-11-08 10:53:26 getting environment url: postgresql://postgres:root@localhost:5432/agridb 
+2025-11-08 10:53:26 database connection established
+2025-11-08 10:53:26 creating tables if not exist already
+2025-11-08 10:53:58 start data extraction
+2025-11-08 10:53:58 data is extracted from CSVs
+2025-11-08 10:53:58 Start data transformation
+2025-11-08 10:53:58 Duplicate pseudo_id or duplicate_node_id
+2025-11-08 10:53:58 Duplicate pseudo_id/(s) found
+2025-11-08 10:53:58 Duplicate node_id/(s) found
+2025-11-08 10:53:58 Dropping duplicates
+2025-11-08 10:53:58 data transformation is done
+2025-11-08 10:53:58 start loading data
+2025-11-08 10:53:58 getting environment url: postgresql://postgres:root@localhost:5432/agridb 
+2025-11-08 10:53:58 database connection established
+2025-11-08 10:53:58 creating tables if not exist already
+2025-11-08 10:54:23 start data extraction
+2025-11-08 10:54:23 data is extracted from CSVs
+2025-11-08 10:54:23 Start data transformation
+2025-11-08 10:54:23 Duplicate pseudo_id or duplicate_node_id
+2025-11-08 10:54:23 Duplicate pseudo_id/(s) found
+2025-11-08 10:54:23 Duplicate node_id/(s) found
+2025-11-08 10:54:23 Dropping duplicates
+2025-11-08 10:54:23 data transformation is done
+2025-11-08 10:54:23 start loading data
+2025-11-08 10:54:23 getting environment url: postgresql://postgres:root@localhost:5432/agridb 
+2025-11-08 10:54:23 database connection established
+2025-11-08 10:54:23 creating tables if not exist already
+2025-11-08 10:54:23 table creation done, Start loading data
+2025-11-08 10:54:23 inserting data into tables
+2025-11-08 10:54:23 Data loaded successfully

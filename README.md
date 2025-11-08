@@ -40,6 +40,6 @@ This project is licensed under the terms of the MIT license.
 
 ## SOME PICTURES FOR DASHBOARD
 
-
 ![dashboard1.png](data/images/dashboard1.png)
 ![dashboard2.png](data/images/dashboard2.png)
+![dashboard3.png](data/images/dashboard3.png)

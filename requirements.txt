@@ -1,3 +1,4 @@
+plotly
 upgrade-pip
 python-dotenv
 psycopg2
