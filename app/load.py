@@ -52,6 +52,16 @@ def load_data(log_path, env_path, nodes, sensors, crops):
     UNIQUE(pseudo_id, crop_id),
     CONSTRAINT fk_crops FOREIGN KEY (pseudo_id) REFERENCES esp_nodes (pseudo_id) ON DELETE CASCADE ON UPDATE CASCADE)''')
 
+    #One customer can have multiple crops and multiple nodes
+    cursor.execute('''CREATE TABLE IF NOT EXISTS customer(
+    customer_id VARCHAR(20) PRIMARY KEY,
+    customer_email VARCHAR(50),
+    customer_location VARCHAR(50) NOT NULL, 
+    pseudo_id INT NOT NULL,
+    crop_id VARCHAR(20) NOT NULL,
+    CONSTRAINT fk_customers1 FOREIGN KEY (pseudo_id) REFERENCES esp_nodes (pseudo_id) ON DELETE CASCADE ON UPDATE CASCADE,
+    CONSTRAINT fk_customers2 FOREIGN KEY (crop_id) REFERENCES crops (crop_id) ON DELETE CASCADE ON UPDATE CASCADE);''')
+
     conn.commit()
 
     log_operation("table creation done, Start loading data", log_path)

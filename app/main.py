@@ -15,14 +15,17 @@ SAMPLE_SENSORSCSV_PATH = os.path.join(DATA_DIR, 'sample_sensors.csv')
 
 def main():
 
+    #Extract Data
     log_operation('start data extraction', LOGS_PATH)
     nodes_df, crops_df, sensors_df = extract(sample_nodescsv_path=SAMPLE_NODESCSV_PATH, sample_cropscsv_path=SAMPLE_CROPSCSV_PATH, sample_sensorscsv_path=SAMPLE_SENSORSCSV_PATH, log_path= LOGS_PATH)
     log_operation('data is extracted from CSVs', LOGS_PATH)
 
+    #Transform Data
     log_operation('Start data transformation', LOGS_PATH)
     transformed_nodes_df, transformed_crops_df, transformed_sensors_df = transform(nodes_df, crops_df, sensors_df, log_path=LOGS_PATH, sample_crops_csv_path=SAMPLE_CROPSCSV_PATH)
     log_operation('data transformation is done', LOGS_PATH)
 
+    #Load Data
     log_operation('start loading data', LOGS_PATH)
     load_data(log_path=LOGS_PATH, env_path=ENV_PATH, nodes=transformed_nodes_df, sensors=transformed_sensors_df, crops=transformed_crops_df)
     log_operation('Data loaded successfully', LOGS_PATH)
